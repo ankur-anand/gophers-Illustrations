@@ -1,5 +1,5 @@
 # gophers-Illustrations
-A repo of some Golang Mascot illustrations done by me.
+A repo of Golang Mascot illustrations done by me.
 
 Based on original iconic mascot from the amazing [Renee French](http://reneefrench.blogspot.com/).
 
